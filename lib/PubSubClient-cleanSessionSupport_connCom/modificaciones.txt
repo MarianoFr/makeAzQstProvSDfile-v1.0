@@ -1,0 +1,1 @@
+Se comentaron 2 lineas en el método connect, el cual pregunta muchas vece client->connected()

@@ -1,0 +1,1 @@
+Ultima version TinyGSM con soporte SSL con modificaciones para sincronizar hora y en modemSend donde CASEND no responde como espera el codigo ue por lo tanto fue modificado
